@@ -1,0 +1,22 @@
+{
+  "name": "yesbee-socketio",
+  "version": "0.0.1",
+  "description": "Yesbee Socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yesbee",
+    "yesbee-socketio"
+  ],
+  "author": "Farid Hidayat <e.faridhidayat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "q": "~1.1.2",
+    "lodash": "~2.4.1",
+    "request": "~2.48.0",
+    "socket.io": "~1.2.1",
+    "socket.io-client": "~1.2.1"
+  }
+}
