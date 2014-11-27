@@ -1,6 +1,6 @@
 {
   "name": "yesbee-socketio",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yesbee Socketio",
   "main": "index.js",
   "scripts": {
