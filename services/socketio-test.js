@@ -34,16 +34,16 @@ module.exports = function() {
 		serverTAG = 'SOCKETIO SERVER::';
 
 	// run as Server whinch open socket to client
-	this.from('socketio://localhost:4000?eventName=waiting&exchangePattern=inOut') // #1
+	this.from('socketio://localhost:4004?eventName=waiting&exchangePattern=inOut') // #1
 		.to(function(exchange) {
 			console.log(serverTAG, 'hi waiting for you.');
 			exchange.headers['socketio-session-id'] = exchange.body.socket_id;
 			console.log(serverTAG, 'immediately hit / emit socket event.');
 		})
-		.to('socketio-emit://localhost:4000/checkoutEngine?eventName=hello');
+		.to('socketio-emit://localhost:4004/checkoutEngine?eventName=hello');
 
 	var TAG = 'SOCKETIO CLIENT::',
-		socket = require('socket.io-client')('http://localhost:4000');
+		socket = require('socket.io-client')('http://localhost:4004');
 
 	// run as client which listen socket
 	setImmediate(function() {
