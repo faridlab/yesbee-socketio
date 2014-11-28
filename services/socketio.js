@@ -43,6 +43,8 @@ var IOWrapper = function(context, uri) {
     this.context = context;
     this.sockets = {};
 
+    uri = uri.replace(/^socketio:/g, "http:");
+    uri = uri.replace(/^socketios:/g, "https:");
     var httpService = this.context.getService('http'),
         httpWrapper = httpService.get(uri);
 
