@@ -43,8 +43,8 @@ var IOWrapper = function(context, uri) {
     this.context = context;
     this.sockets = {};
 
-    uri = uri.replace(/^socketio:/g, "http:");
-    uri = uri.replace(/^socketios:/g, "https:");
+    // uri = uri.replace(/^socketio:/g, "http:");
+    // uri = uri.replace(/^socketios:/g, "https:");
     var httpService = this.context.getService('http'),
         httpWrapper = httpService.get(uri);
 
@@ -68,7 +68,7 @@ IOWrapper.prototype = {
                 var exchange = new Exchange();
                 exchange.body = data;
                 exchange.body.socket_id = socket.id;
-                exchange.headers['socketio-session-id'] = socket.id;
+                exchange.headers['socketio::session-id'] = socket.id;
                 that.context.send(Channel.IN, handler, exchange, that);
             });
         });

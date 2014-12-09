@@ -4,16 +4,100 @@
 		"selected_items":
 		[
 			[
-				"sock",
-				"socket_id"
+				"ex",
+				"exchange"
 			],
 			[
-				"l",
+				"request",
+				"requestid"
+			],
+			[
+				"metho",
+				"methodName"
+			],
+			[
+				"para",
+				"param"
+			],
+			[
+				"tr",
+				"trx"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"prnt",
+				"print_r"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"pritn",
+				"print_r"
+			],
+			[
+				"to",
+				"toArray"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"Bill",
+				"Billing"
+			],
+			[
+				"pubi",
+				"public"
+			],
+			[
+				"bill",
+				"billcode"
+			],
+			[
+				"reque",
+				"requestid"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"che",
+				"checkout"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"sta",
+				"staus"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"Core",
+				"CoreAcquirerProvider"
+			],
+			[
+				"loca",
 				"localhost"
 			],
 			[
 				"exc",
 				"exchange"
+			],
+			[
+				"sock",
+				"socketsRef"
 			],
 			[
 				"exha",
@@ -68,10 +152,6 @@
 				"server"
 			],
 			[
-				"ex",
-				"exchange"
-			],
-			[
 				"popul",
 				"populateServices"
 			],
@@ -86,10 +166,6 @@
 			[
 				"lo",
 				"log"
-			],
-			[
-				"to",
-				"to"
 			],
 			[
 				"cha",
@@ -134,10 +210,6 @@
 			[
 				"user",
 				"username"
-			],
-			[
-				"json",
-				"JSONException"
 			],
 			[
 				"tw",
@@ -220,14 +292,6 @@
 				"listFiles"
 			],
 			[
-				"re",
-				"return"
-			],
-			[
-				"for",
-				"for	for (…) {…}"
-			],
-			[
 				"file",
 				"filesCount"
 			],
@@ -254,10 +318,6 @@
 			[
 				"string",
 				"stringByAppendingString"
-			],
-			[
-				"para",
-				"params"
 			],
 			[
 				"th",
@@ -334,10 +394,6 @@
 			[
 				"call",
 				"callback"
-			],
-			[
-				"sta",
-				"start"
 			],
 			[
 				"bundleI",
@@ -458,75 +514,11 @@
 			[
 				"len",
 				"length"
-			],
-			[
-				"rm",
-				"remove"
-			],
-			[
-				"comp",
-				"compared"
-			],
-			[
-				"fo",
-				"form"
-			],
-			[
-				"ch",
-				"chapter"
-			],
-			[
-				"com",
-				"comp"
-			],
-			[
-				"la",
-				"lang"
-			],
-			[
-				"clic",
-				"click"
-			],
-			[
-				"is",
-				"isOnline"
-			],
-			[
-				"coos",
-				"console"
-			],
-			[
-				"Ap",
-				"API"
-			],
-			[
-				"sett",
-				"setting"
-			],
-			[
-				"upda",
-				"updated"
-			],
-			[
-				"usr",
-				"username"
-			],
-			[
-				"pus",
-				"Pustaka"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "services/socketio.js",
-			"settings":
-			{
-				"buffer_size": 4229,
-				"line_ending": "Unix"
-			}
-		},
 		{
 			"file": "components/socketio.js",
 			"settings":
@@ -536,18 +528,10 @@
 			}
 		},
 		{
-			"file": "services/socketio-test.js",
+			"file": "services/socketio.js",
 			"settings":
 			{
-				"buffer_size": 2313,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 477,
+				"buffer_size": 4332,
 				"line_ending": "Unix"
 			}
 		}
@@ -639,20 +623,78 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee-socketio"
+		"/Users/faridhidayat/Workspace/xinix/nodejs/yesbee-socketio",
+		"/Users/faridhidayat/Workspace/xinix/nodejs/yesbee-socketio/components",
+		"/Users/faridhidayat/Workspace/xinix/nodejs/yesbee-socketio/services"
 	],
 	"file_history":
 	[
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee-socketio/services/socketio-test.js",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee-socketio/components/socketio-emit.js",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee-socketio/manifest.json",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee-socketio/.gitignore",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee-socketio/components/socketio.js",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee-socketio/package.json",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee-socketio/test/test.js",
-		"/Users/faridhidayat/Library/Application Support/Sublime Text 3/Packages/User/copyright-mit.sublime-snippet",
-		"/Users/faridhidayat/Library/Application Support/Sublime Text 3/Packages/User/jsmodule.sublime-snippet",
-		"/Users/faridhidayat/Library/Application Support/Sublime Text 3/Packages/User/jslib.sublime-snippet",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/config.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/src/MCoin/Provider/CoreAcquirerProvider.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/Billing.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/Transaction.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/UnsafeString.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/NormArray.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/Boolean.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Collection.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Controller/NormController.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Norm.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Cursor/MemoryCursor.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/reekoheek/bono-auth/src/ROH/BonoAuth/Driver/NormAuth.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/_schema/fee_structure/readonly.blade.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/_schema/fee_structure/input.blade.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/src/MCoin/Schema/FeeStructure.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/DigitalItemDetail.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/DigitalItem.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/www/templateupload/digital-item-detail.csv",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/merchant/billing/create.blade.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/merchant/read.blade.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Batch/BatchInterface.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/bower.json",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/merchant/checkout.blade.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/Checkout.php",
+		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/src/MCoin/Controller/CheckoutController.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Schema/FeeStructure.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/checkout.blade.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Checkout.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Controller/CheckoutController.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/www/vendor/pants/js/pants.js",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/www/vendor/pants/pants.html",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/www/vendor/pants-autocomplete/pants-autocomplete.html",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/package.json",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Observer/StoreObserver.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/read.blade.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Observer/GenerateCodeObserver.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/CounterCode.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/config.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Merchant.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/MerchantRole.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/pax_templates/Migrate.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/search.blade.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/create.blade.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/StoreCategory.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Country.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/store/create.blade.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Provider/LoginProvider.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/layout.blade.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Filter/FilterException.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/cache/f5ea9330e6accc98a051bd528aaf4ce5",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Log/LogAdapterInterface.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/reekoheek/bono-auth/src/ROH/BonoAuth/Driver/NormAuth.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/NormArray.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Controller/NormController.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/login.blade.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/slim/slim/tests/SlimTest.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Store.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Driver/CoreAcquirerAuthDriver.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/BillingDetail.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Location.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/LICENSE",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/xinix-technology/bono/src/Bono/Controller/Controller.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/composer.json",
+		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/node_modules/mustache/CHANGES",
+		"/Users/faridhidayat/Workspace/web/mcoin/checkout-system/vendor/guzzle/guzzle/src/Guzzle/Http/Curl/CurlHandle.php",
+		"/Users/faridhidayat/Workspace/web/mcoin/checkout-system/composer.json",
 		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/components/http.js",
 		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/services/socketio.js",
 		"/Users/faridhidayat/Workspace/web/sort.php",
@@ -714,63 +756,7 @@
 		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/xinix-technology/bono/src/Bono/Controller/RestController.php",
 		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/composer.json",
 		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/templates/billing/search.blade.php",
-		"/Users/faridhidayat/Workspace/web/xinix/naked2-theme/templates/skeleton.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/krisanalfa/blade-theme/README.md",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/krisanalfa/blade-theme/.gitignore",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/autoload.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/composer/autoload_real.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/guzzle/guzzle/docs/docs.rst",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/filp/whoops/src/Whoops/Resources/views/env_details.html.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/slim/slim/Slim/Environment.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/guzzle/guzzle/src/Guzzle/Service/Exception/ValidationException.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/node_modules/moment/locale/vi.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/cache/ba94b529cfc5ffa3a128101f85712af2",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/guzzle/guzzle/src/Guzzle/Plugin/Backoff/BackoffLogger.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/guzzle/guzzle/docs/http-client/response.rst",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/README.md",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/xinix-technology/norm/src/Norm/Connection.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/xinix-technology/norm/composer.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/xinix-technology/norm/.gitignore",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/www/vendor/naked2-theme/css/normalize.css",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/xinix-technology/norm/src/Norm/Norm.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/node_modules/moment/locale/nb.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/guzzle/guzzle/src/Guzzle/Cache/AbstractCacheAdapter.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/guzzle/guzzle/docs/plugins/cache-plugin.rst",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/composer/autoload_classmap.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/guzzle/guzzle/docs/plugins/curl-auth-plugin.rst",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/guzzle/guzzle/src/Guzzle/Http/Curl/CurlHandle.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/node_modules/mustache/CHANGES",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/plugins/com.brodysoft.sqlitePlugin/test-www/config.xml",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/config.xml",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/platforms/android/cordova/defaults.xml",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/www/js/user.js",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee/README.md",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee/bin/yesbee",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee/lib/services/http.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/bin/yesbee",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/www/css/style.css",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/www/db/pelayaran.json",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/platforms/android/AndroidManifest.xml",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/plugins/com.brodysoft.sqlitePlugin/src/android/org/pgsqlite/SQLitePlugin.java",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/platforms/android/assets/www/plugins/com.brodysoft.sqlitePlugin/www/SQLitePlugin.js",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/www/index.html",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/www/js/app/app.js",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/plugins/com.brodysoft.sqlitePlugin/www/SQLitePlugin.js",
-		"/Users/faridhidayat/Workspace/mobile/kamus-pelayaran/plugins/com.brodysoft.sqlitePlugin/SQLitePlugin.coffee.md",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/plugins/com.phonegap.plugins.facebookconnect/platforms/android/FacebookLib/src/com/facebook/LoginActivity.java",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/plugins/com.phonegap.plugins.facebookconnect/www/js/facebookConnectPlugin.js",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/www/css/booklet/openbook.css",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/platforms/android/src/id/or/alkitab/CustomAdapter.java",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/platforms/ios/Alkitab Digital Plus/Classes/Constants.h",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/platforms/android/cordova/node_modules/shelljs/src/toEnd.js",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/platforms/android/src/id/or/alkitab/CustomUI.java",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/www/js/app/middleware.js",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/www/css/style.css",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/platforms/android/src/id/or/alkitab/plugins/AppService.java",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/platforms/android/AndroidManifest.xml",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/www/js/view/library/index.js",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/www/js/app/routes.js",
-		"/Users/faridhidayat/Workspace/mobile/Alkitab/www/index.html"
+		"/Users/faridhidayat/Workspace/web/xinix/naked2-theme/templates/skeleton.blade.php"
 	],
 	"find":
 	{
@@ -781,6 +767,7 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"*.php",
 			"*.js",
 			"",
 			"*.m",
@@ -854,24 +841,40 @@
 		"case_sensitive": true,
 		"find_history":
 		[
-			"4040",
-			"4000",
-			"// #1",
-			": function",
-			": {",
-			"},",
-			"Channel",
-			"Exchange",
-			"logger",
-			"socketio",
-			"},",
-			"Channel",
-			"url",
-			"Exchange",
-			"logger",
-			"Q",
-			"Channel",
-			"url",
+			"socketio-",
+			"socket-",
+			"yesbee-",
+			"yesbee",
+			"getH",
+			"createServer",
+			"set(",
+			"set",
+			"custname",
+			"refno",
+			"total",
+			"fee",
+			"traceno",
+			"custid",
+			"trxtype",
+			"custid",
+			"billcode",
+			"trxtype",
+			"merchantid",
+			"requestid",
+			"store",
+			"param",
+			"BillingDetailController",
+			"bill",
+			"== 3",
+			"prin",
+			"var",
+			"model",
+			"cursor",
+			"fee",
+			"feeModel",
+			"refId",
+			"location",
+			"fee",
 			"exchan",
 			"proxy",
 			"detach",
@@ -965,23 +968,7 @@
 			"_load",
 			"list-group",
 			"_loadCompare",
-			"Result",
-			"result",
-			"data-bind=\"click:viewDetail\"",
-			"view.$el",
-			"this",
-			"from",
-			"inbound",
-			"wizSpinner",
-			"{\"id\":",
-			"{\"id\":\"1\"",
-			"simple",
-			"API",
-			".data",
-			"invoke",
-			"org.pgsqlite.SQLitePlugin",
-			"<plugin name=\"org.apache.cordova.facebook.Connect\" value=\"org.apache.cordova.facebook.ConnectPlugin\" />",
-			"CFBundleURLTypes"
+			"Result"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1009,44 +996,11 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "services/socketio.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4229,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2547,
-								2547
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 57.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "components/socketio.js",
 					"semi_transient": false,
 					"settings":
@@ -1058,8 +1012,8 @@
 						"selection":
 						[
 							[
-								1369,
-								1369
+								1439,
+								1445
 							]
 						],
 						"settings":
@@ -1072,27 +1026,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 206.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "services/socketio-test.js",
+					"buffer": 1,
+					"file": "services/socketio.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2313,
+						"buffer_size": 4332,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1267,
-								1267
+								2507,
+								2527
 							]
 						],
 						"settings":
@@ -1101,43 +1055,11 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 386.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 477,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								301,
-								301
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 740.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1200,6 +1122,106 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"fee_stru",
+				"templates/_schema/fee_structure/input.blade.php"
+			],
+			[
+				"mcoin/provider/coreacquirerprovider.php",
+				"src/MCoin/Provider/CoreAcquirerProvider.php"
+			],
+			[
+				"digitalitemde",
+				"config/collections/DigitalItemDetail.php"
+			],
+			[
+				"config",
+				"config/config.php"
+			],
+			[
+				"billing",
+				"config/collections/Billing.php"
+			],
+			[
+				"checkou",
+				"src/MCoin/Controller/CheckoutController.php"
+			],
+			[
+				"fee_s",
+				"templates/_schema/fee_structure/input.blade.php"
+			],
+			[
+				"check",
+				"src/MCoin/Controller/CheckoutController.php"
+			],
+			[
+				"pants",
+				"www/vendor/pants/js/pants.js"
+			],
+			[
+				"storeobserver",
+				"src/MCoin/Observer/StoreObserver.php"
+			],
+			[
+				"store",
+				"config/collections/Store.php"
+			],
+			[
+				"generatecodeobserver",
+				"src/MCoin/Observer/GenerateCodeObserver.php"
+			],
+			[
+				"merchant",
+				"config/collections/Merchant.php"
+			],
+			[
+				"storecategory",
+				"config/collections/StoreCategory.php"
+			],
+			[
+				"counter",
+				"config/collections/CounterCode.php"
+			],
+			[
+				"feestructure",
+				"src/MCoin/Schema/FeeStructure.php"
+			],
+			[
+				"layout",
+				"templates/layout.blade.php"
+			],
+			[
+				"normauth",
+				"vendor/reekoheek/bono-auth/src/ROH/BonoAuth/Driver/NormAuth.php"
+			],
+			[
+				"logindr",
+				"src/MCoin/Provider/LoginProvider.php"
+			],
+			[
+				"src/mcoin/provider/loginprovider.php",
+				"src/MCoin/Provider/LoginProvider.php"
+			],
+			[
+				"src/mcoin/driver/coreacquirerauthdriver.php",
+				"src/MCoin/Driver/CoreAcquirerAuthDriver.php"
+			],
+			[
+				"config/config.php",
+				"config/config.php"
+			],
+			[
+				"config/collections/billingdetail.php",
+				"config/collections/BillingDetail.php"
+			],
+			[
+				"loginprovider",
+				"src/MCoin/Provider/LoginProvider.php"
+			],
+			[
+				"chec",
+				"src/MCoin/Controller/CheckoutController.php"
+			],
 			[
 				"compo/http",
 				"node_modules/yesbee/lib/components/http.js"
@@ -1275,10 +1297,6 @@
 			[
 				"config.xml",
 				"config.xml"
-			],
-			[
-				"config",
-				"www/js/app/config.js"
 			],
 			[
 				"init",
@@ -1615,102 +1633,6 @@
 			[
 				"open",
 				"www/css/booklet/openbook.css"
-			],
-			[
-				"sections",
-				"www/vendor/jsb/src/Section.js"
-			],
-			[
-				"book",
-				"www/vendor/jsb/src/Book.js"
-			],
-			[
-				"xin.css",
-				"www/vendor/xin/css/xin.css"
-			],
-			[
-				"xin.js",
-				"www/vendor/xin/js/xin.js"
-			],
-			[
-				"appdbm",
-				"platforms/ios/Alkitab Digital Plus/Classes/AppDB.m"
-			],
-			[
-				"appasse.m",
-				"platforms/ios/Alkitab Digital Plus/Classes/AppAssetManager.m"
-			],
-			[
-				"service",
-				"platforms/android/src/id/or/alkitab/ServiceManager.java"
-			],
-			[
-				"httprequest.java",
-				"platforms/android/src/id/or/alkitab/HttpRequest.java"
-			],
-			[
-				"service/down",
-				"www/js/service/download.js"
-			],
-			[
-				"api/user.",
-				"www/js/api/user.js"
-			],
-			[
-				"user.",
-				"www/js/view/user/user.js"
-			],
-			[
-				"servicemanaga",
-				"platforms/android/src/id/or/alkitab/ServiceManager.java"
-			],
-			[
-				"servicemanager.j",
-				"platforms/android/src/id/or/alkitab/ServiceManager.java"
-			],
-			[
-				"user/",
-				"www/js/view/user/user.js"
-			],
-			[
-				"readme",
-				"README.md"
-			],
-			[
-				"decompress",
-				"platforms/android/src/id/or/alkitab/Decompress.java"
-			],
-			[
-				"setting/index.js",
-				"www/js/view/setting/index.js"
-			],
-			[
-				"core.js",
-				"www/vendor/jsb/src/core.js"
-			],
-			[
-				"setting",
-				"www/js/api/setting.js"
-			],
-			[
-				"jsb/",
-				"www/vendor/jsb/src/Section.js"
-			],
-			[
-				"book.js",
-				"www/vendor/jsb/src/Book.js"
-			],
-			[
-				"alkitab.java",
-				"platforms/android/src/id/or/alkitab/AlkitabDigitalPlus.java"
-			],
-			[
-				"cinstant",
-				"platforms/android/src/id/or/alkitab/Constants.java"
-			],
-			[
-				"androidmani",
-				"platforms/android/AndroidManifest.xml"
 			]
 		],
 		"width": 0.0
@@ -1721,28 +1643,8 @@
 		"selected_items":
 		[
 			[
-				"cron",
-				"~/Workspace/web/xinix/yesbee-cron/project.sublime-project"
-			],
-			[
-				"yesbee",
-				"~/Workspace/web/xinix/yesbee/project.sublime-project"
-			],
-			[
-				"",
-				"~/Workspace/web/xinix/yesbee/project.sublime-project"
-			],
-			[
-				"yesbe",
-				"~/Workspace/web/xinix/yesbee/project.sublime-project"
-			],
-			[
-				"yesb",
-				"~/Workspace/web/xinix/yesbee/project.sublime-project"
-			],
-			[
-				"yess",
-				"~/Workspace/web/xinix/yesbee/project.sublime-project"
+				"service",
+				"~/Workspace/web/project/mcoin/service-integration/project.sublime-project"
 			],
 			[
 				"alkitab",
@@ -1759,10 +1661,6 @@
 			[
 				"merch",
 				"~/Workspace/web/mcoin/mcoin-merchant-portal.sublime-project"
-			],
-			[
-				"service",
-				"~/Workspace/web/mcoin/mcoin-service-integration.sublime-project"
 			],
 			[
 				"kamus",
@@ -1854,6 +1752,10 @@
 			],
 			[
 				"p",
+				"~/Workspace/mobile/mobile-apps-hertz-fandroid/project.sublime-project"
+			],
+			[
+				"",
 				"~/Workspace/mobile/mobile-apps-hertz-fandroid/project.sublime-project"
 			],
 			[
